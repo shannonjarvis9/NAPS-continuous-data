@@ -18,7 +18,7 @@ library(readxl)
 #--------------------------------------------------------------------------------
 # Date range 
 start_year <- 1980
-end_year <- 2019 # Data for 2020 not yet avaialble as of April 2022
+end_year <- 2019 # 2020 data not available as of April 2022
 
 # All possible pollutants: c("PM10", "O3", "NO2", "NO", "SO2", "PM25", "CO", "NOX") 
 types <- c("O3", "NO2", "SO2", "PM25", "PM10")
